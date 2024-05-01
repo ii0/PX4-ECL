@@ -1,3 +1,5 @@
+:warning: This repository is no longer maintained. EKF2 now lives in [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot/tree/main/src/modules/ekf2).
+
 # ECL
 
 **Very lightweight Estimation & Control Library.**
